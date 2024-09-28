@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Thanveer
 
-<!--
-**ThanveerulHuq/ThanveerulHuq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
 
-Here are some ideas to get you started:
+With over 8 years of experience in software development, I'm passionate about building scalable, efficient, and user-friendly web applications. My journey has taken me from crafting enterprise solutions to developing high-performance systems at Amazon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- Frontend: Angular, React, Next.js
+- Backend: Java, Node.js, Python
+- Cloud & DevOps: AWS, Azure, GCP
+
+### 🌟 What I'm up to
+
+- 🔍 Exploring ways to enhance developer productivity
+- 🤖 Investigating the role of LLMs in software development
+- 🏗️ Designing maintainable software architectures
+- 🌱 Always learning and staying updated with the latest tech trends
+
+### 🌈 Beyond Coding
+
+When I'm not immersed in code, you'll find me:
+- 📖 Reading books on various topics
+- 👨‍👩‍👧‍👦 Spending quality time with family
+- 💡 Brainstorming ideas for my future software product and company
+
+### 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, discuss the latest tech trends, or just have a chat about software development!
+
+[LinkedIn](https://www.linkedin.com/in/thanveerul-huq/) 
