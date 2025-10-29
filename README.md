@@ -2,7 +2,7 @@
 
 ## 💻 Full Stack Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
 
-With over 8 years of experience in software development, I'm passionate about building scalable, efficient, and user-friendly web applications. My journey has taken me from crafting enterprise solutions to developing high-performance systems at Amazon.
+With over decade of experience in software development, I'm passionate about building scalable, efficient, and user-friendly web applications. My journey has taken me from crafting enterprise solutions to developing high-performance systems at Amazon.
 
 ### 🛠️ Tech Stack
 
